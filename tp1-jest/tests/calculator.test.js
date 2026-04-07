@@ -1,7 +1,7 @@
-const { add } = require("../tp1-jest/src/calculator");
-const { subtract } = require("../tp1-jest/src/calculator");
-const { multiply } = require("../tp1-jest/src/calculator");
-const { divide } = require("../tp1-jest/src/calculator");
+const { add } = require("../src/calculator");
+const { subtract } = require("../src/calculator");
+const { multiply } = require("../src/calculator");
+const { divide } = require("../src/calculator");
 
 test.each([
   [1, 2, 3],

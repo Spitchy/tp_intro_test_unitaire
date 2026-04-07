@@ -1,5 +1,5 @@
 
-const { Cart } = require('../tp1-jest/src/cart');
+const { Cart } = require('../src/cart');
 describe('Cart', () => {
  let cart;
     beforeEach(() => {
